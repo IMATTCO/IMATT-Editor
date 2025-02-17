@@ -37,10 +37,6 @@ IMATT Editor is a powerful, user-friendly photo editor designed to enhance and t
 4. **Save Your Image:**  
    Click the "Save" button to export your edited image.
 
-## Screenshots
-
-![IMATT Editor Screenshot](screenshot.png)
-
 ## Support
 
 For issues or suggestions, please open an issue on the [GitHub repository](https://github.com/Alixahedi/IMATT-Editor/issues).
