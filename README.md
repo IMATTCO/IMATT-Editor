@@ -45,4 +45,4 @@ For issues or suggestions, please open an issue on the [GitHub repository](https
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-*Developed by [Ali Zahedi](https://github.com/Alixahedi)*
+*Developed by [Ali Zahedi](https://github.com/Alixahedi) from [IMATT](https://github.com/imattco)*
